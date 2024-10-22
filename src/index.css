@@ -1,0 +1,20 @@
+body {
+  font-family: cursive;
+  background-color: rgb(121, 80, 148);
+}
+.movieDiv{
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 500px;
+  height: 500px;
+  background-color: rgb(166, 150, 222);
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  overflow: auto;
+}
+img{
+  width: 300px;
+  object-fit: scale-down;
+  padding: 10px;
+}
